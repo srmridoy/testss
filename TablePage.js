@@ -3,7 +3,7 @@ import { Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow,
 
 import { PageTitle } from '../../layout-components';
 
-export default function ElementsAvatars() {
+export default function TablePage() {
   return (
     <>
       <PageTitle
