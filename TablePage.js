@@ -1,7 +1,7 @@
 import React from 'react';
+import { Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper } from '@material-ui/core';
 
 import { PageTitle } from '../../layout-components';
-import { Grid } from '@material-ui/core';
 
 export default function ElementsAvatars() {
   return (
